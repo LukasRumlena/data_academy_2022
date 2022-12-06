@@ -19,5 +19,3 @@ The largest year-on-year increase is in 2017-2018 at 8.42%. The answer is no.
 Question five: Does the level of GDP affect changes in wages and food prices? Or, if GDP rises more significantly in one year, does that translate into a more significant rise in food prices or wages in the same or subsequent year?
 Answer:
 According to available data, tax growth is underpinned by slower growth in consumption. Instead, wage growth is not moderate to tax growth.
-
-Translated with www.DeepL.com/Translator (free version)
